@@ -1,0 +1,143 @@
+.logo {
+  width: 250px;
+}
+
+.home {
+  display: flex;
+  justify-content: center;
+  background-color: #ffeeee;
+  width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Rubik";
+  border-radius: 25px 25px 25px 25px;
+  box-shadow: 0px 2px 8px #c0c0c0;
+  padding: 10px 0px 40px 0px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: #ff260e;
+}
+a:active {
+  text-decoration: none;
+  color: #ff260e;
+}
+
+.padding-home {
+  padding: 10px 0px 20px 0px;
+}
+
+.submit {
+  font-family: "Rubik";
+  color: white;
+  background-color: #ff260e;
+  height: 35px;
+  text-decoration: none;
+  border-radius: 25px 25px 25px 25px;
+  border: none;
+  margin-top: 10px;
+}
+
+.submit:hover,
+.gif-supp:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.nav-bar {
+  background-color: #ffeeee;
+  border-radius: 25px 25px 25px 25px;
+  box-shadow: 0px 2px 8px #c0c0c0;
+  width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 0px 20px 0px;
+  font-family: "Rubik";
+}
+
+.padding-icone {
+  padding-right: 50px;
+}
+
+.posting-box {
+  background-color: #ffeeee;
+  width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 0px 20px 0px;
+  margin-top: 70px;
+  border-radius: 25px 25px 25px 25px;
+  box-shadow: 0px 2px 8px #c0c0c0;
+  font-family: "Rubik";
+}
+
+.statut {
+  padding-bottom: 20px;
+}
+
+.name-separation {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0px 20px 0px;
+}
+
+.username {
+  font-weight: bold;
+  font-size: 20px;
+  padding-left: 5px;
+  color: #d71701;
+}
+
+.gif-supp {
+  font-family: "Rubik";
+  color: white;
+  background-color: #ff260e;
+  height: 35px;
+  text-decoration: none;
+  border-radius: 25px 25px 25px 25px;
+  border: none;
+}
+
+.statut-text {
+  font-size: 20px;
+  padding: 10px 0px 50px 0px;
+}
+
+.comments {
+  color: #d71701;
+  font-weight: bold;
+}
+
+.box-comment {
+  background-color: white;
+  margin: 10px;
+  padding: 20px;
+  width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px 25px 25px 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+.admin-margin {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.gifbox {
+  max-width: 90%;
+}
