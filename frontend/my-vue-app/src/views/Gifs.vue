@@ -1,6 +1,6 @@
 <template>
   <navBar></navBar>
-  <div class="row d-flex flex-column">
+  <div>
     <postGifForm></postGifForm>
     <gif></gif>
   </div>
